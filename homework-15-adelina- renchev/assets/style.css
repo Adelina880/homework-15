@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .container-sm {
+    margin-top: 50px;
+    background-color: lightgray;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-bottom: 50px;
+  }
+  .title {
+    padding-top: 10px;
+  }
+  
+  .list{
+    position: relative;
+    left: 300px;
+    bottom: 727px;
+  }
